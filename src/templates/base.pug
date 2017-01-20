@@ -1,0 +1,26 @@
+doctype html
+html
+  head
+    title= code 
+    link(
+      href='https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed'
+      rel='stylesheet'
+    )
+    link(href='../res/css/style.css' rel='stylesheet' type='text/css')
+  body
+    .error
+      .top.emoji!= emoji
+      h1.code= code
+      h3.msg= msg
+      each block in content
+        if block.type == 'details' || block.type == 'details small'
+          p(class=block.type)!= block.text
+        else if block.type == 'links'
+          ul.links
+            each href, label in block.links
+              li
+                a(href=href)!= label
+      .footer
+        p.text Website by:
+        a(href='https://www.vauxoo.com' target='_blank')
+          img.vx-logo(src='https://www.vauxoo.com/logo.png')
