@@ -3,7 +3,7 @@ let fs = require('fs');
 let pug = require('pug');
 let compiler = pug.compileFile('src/templates/base.pug');
 
-fs.readFile('data/vauxoo.json', function(err, json) {
+fs.readFile('data/benandfrank.json', function(err, json) {
   if (err) throw err;
 
   data = JSON.parse(json.toString());

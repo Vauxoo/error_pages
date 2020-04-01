@@ -16,7 +16,7 @@ In this repo we intend to save our error pages
 ### HTML
 
 To change the html content for the pages you have to modify the
-`data/vauxoo.json` file. That file contains a json object with a key
+`data/benandfrank.json` file. That file contains a json object with a key
 called `pages`, where every key inside that represents a directory,
 which in turn is another object with every key representing an
 html file.

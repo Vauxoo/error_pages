@@ -21,10 +21,10 @@
           {
             "type": "links",
             "links": {
-              "Home": "https://www.vauxoo.com",
-              "About us": "https://www.vauxoo.com/website.aboutus",
-              "Jobs": "https://www.vauxoo.com/jobs",
-              "Contact us": "https://www.vauxoo.com/website.contactus"
+              "Home": "https://www.benandfrank.com",
+              "About us": "https://www.benandfrank.com/website.aboutus",
+              "Jobs": "https://www.benandfrank.com/jobs",
+              "Contact us": "https://www.benandfrank.com/website.contactus"
             }
           }
         ]
@@ -40,7 +40,7 @@
           },
           {
             "type": "details small",
-            "text": "You must <a href=\"https://www.vauxoo.com/web/login\">login</a> before going in here."
+            "text": "You must <a href=\"https://www.benandfrank.com/web/login\">login</a> before going in here."
           },
           {
             "type": "details small",
@@ -49,10 +49,10 @@
           {
             "type": "links",
             "links": {
-              "Home": "https://www.vauxoo.com",
-              "About us": "https://www.vauxoo.com/website.aboutus",
-              "Jobs": "https://www.vauxoo.com/jobs",
-              "Contact us": "https://www.vauxoo.com/website.contactus"
+              "Home": "https://www.beanandfrank.com",
+              "About us": "https://www.beanandfrank.com/website.aboutus",
+              "Jobs": "https://www.beanandfrank.com/jobs",
+              "Contact us": "https://www.beanandfrank.com/website.contactus"
             }
           }
         ]
@@ -77,10 +77,10 @@
           {
             "type": "links",
             "links": {
-              "Home": "https://www.vauxoo.com",
-              "About us": "https://www.vauxoo.com/website.aboutus",
-              "Jobs": "https://www.vauxoo.com/jobs",
-              "Contact us": "https://www.vauxoo.com/website.contactus"
+              "Home": "https://www.benandfrank.com",
+              "About us": "https://www.benandfrank.com/website.aboutus",
+              "Jobs": "https://www.benandfrank.com/jobs",
+              "Contact us": "https://www.benandfrank.com/website.contactus"
             }
           }
         ]
@@ -105,10 +105,10 @@
           {
             "type": "links",
             "links": {
-              "Home": "https://www.vauxoo.com",
-              "About us": "https://www.vauxoo.com/website.aboutus",
-              "Jobs": "https://www.vauxoo.com/jobs",
-              "Contact us": "https://www.vauxoo.com/website.contactus"
+              "Home": "https://www.benandfrank.com",
+              "About us": "https://www.benandfrank.com/website.aboutus",
+              "Jobs": "https://www.benandfrank.com/jobs",
+              "Contact us": "https://www.benandfrank.com/website.contactus"
             }
           }
         ]
@@ -117,28 +117,28 @@
     "50x": {
       "500": {
         "code": 500,
-        "msg": "Ooops!",
+        "msg": "Nos mataste con tu amor",
         "emoji": "&#x1F635;",
         "content": [
           {
             "type": "details",
-            "text": "We'll be right back..."
+            "text": "Danos algunos minutos para recuperarnos y la página va a regresar mejor que nunca."
           },
           {
             "type": "details small",
-            "text": "Please wait for a moment and try again, or visit our <a href=\"https://status.vauxoo.com\">status page</a> for more information."
+            "text": "Por favor espera un momento..."
           },
           {
             "type": "details small",
-            "text": "You can also try:"
+            "text": "Puedes tambien intentar ir a:"
           },
           {
             "type": "links",
             "links": {
-              "Home": "https://www.vauxoo.com",
-              "About us": "https://www.vauxoo.com/website.aboutus",
-              "Jobs": "https://www.vauxoo.com/jobs",
-              "Contact us": "https://www.vauxoo.com/website.contactus"
+              "Home": "https://www.benandfrank.com",
+              "About us": "https://www.benandfrank.com/website.aboutus",
+              "Jobs": "https://www.benandfrank.com/jobs",
+              "Contact us": "https://www.benandfrank.com/website.contactus"
             }
           }
         ]
