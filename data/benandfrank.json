@@ -125,6 +125,13 @@
             "text": "Danos algunos minutos para recuperarnos y la página va a regresar mejor que nunca."
           },
           {
+            "type": "image",
+            "image": {
+              "src": "../res/img/redes-error-505.jpg",
+              "alt": "Nos mataste con tu amor"
+            }
+          },
+          {
             "type": "details small",
             "text": "Por favor espera un momento..."
           },
