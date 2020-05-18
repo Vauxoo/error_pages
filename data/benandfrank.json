@@ -3,20 +3,27 @@
     "40x": {
       "400": {
         "code": 400,
-        "msg": "Bad request",
-        "emoji": "&#x1F616;",
+        "msg": "Nos mataste con tu amor",
+        "emoji": "&#x1F635;",
         "content": [
           {
             "type": "details",
-            "text": "What?"
+            "text": "Danos algunos minutos para recuperarnos y la página va a regresar mejor que nunca."
+          },
+          {
+            "type": "image",
+            "image": {
+              "src": "../res/img/redes-error-505.jpg",
+              "alt": "Nos mataste con tu amor"
+            }
           },
           {
             "type": "details small",
-            "text": "The server didn't understand that request. Please Verify and try again."
+            "text": "Por favor espera un momento..."
           },
           {
             "type": "details small",
-            "text": "Or try one of this:"
+            "text": "Puedes tambien intentar ir a:"
           },
           {
             "type": "links",
@@ -31,48 +38,62 @@
       },
       "401": {
         "code": 401,
-        "msg": "Unauthorized",
-        "emoji": "&#x1F620;",
+        "msg": "Nos mataste con tu amor",
+        "emoji": "&#x1F635;",
         "content": [
           {
             "type": "details",
-            "text": "Authorized personnel only."
+            "text": "Danos algunos minutos para recuperarnos y la página va a regresar mejor que nunca."
+          },
+          {
+            "type": "image",
+            "image": {
+              "src": "../res/img/redes-error-505.jpg",
+              "alt": "Nos mataste con tu amor"
+            }
           },
           {
             "type": "details small",
-            "text": "You must <a href=\"https://www.benandfrank.com/web/login\">login</a> before going in here."
+            "text": "Por favor espera un momento..."
           },
           {
             "type": "details small",
-            "text": "Or try one of this:"
+            "text": "Puedes tambien intentar ir a:"
           },
           {
             "type": "links",
             "links": {
-              "Home": "https://www.beanandfrank.com",
-              "About us": "https://www.beanandfrank.com/website.aboutus",
-              "Jobs": "https://www.beanandfrank.com/jobs",
-              "Contact us": "https://www.beanandfrank.com/website.contactus"
+              "Home": "https://www.benandfrank.com",
+              "About us": "https://www.benandfrank.com/website.aboutus",
+              "Jobs": "https://www.benandfrank.com/jobs",
+              "Contact us": "https://www.benandfrank.com/website.contactus"
             }
           }
         ]
       },
       "403": {
         "code": 403,
-        "msg": "Forbidden",
-        "emoji": "&#x1F621;",
+        "msg": "Nos mataste con tu amor",
+        "emoji": "&#x1F635;",
         "content": [
           {
             "type": "details",
-            "text": "Turn around!"
+            "text": "Danos algunos minutos para recuperarnos y la página va a regresar mejor que nunca."
+          },
+          {
+            "type": "image",
+            "image": {
+              "src": "../res/img/redes-error-505.jpg",
+              "alt": "Nos mataste con tu amor"
+            }
           },
           {
             "type": "details small",
-            "text": "You are not authorized to be here. Please ask your admin to give you the right permissions and try again."
+            "text": "Por favor espera un momento..."
           },
           {
             "type": "details small",
-            "text": "Or try one of this:"
+            "text": "Puedes tambien intentar ir a:"
           },
           {
             "type": "links",
@@ -87,20 +108,27 @@
       },
       "404": {
         "code": 404,
-        "msg": "Page not found",
-        "emoji": "&#x1F613;",
+        "msg": "Nos mataste con tu amor",
+        "emoji": "&#x1F635;",
         "content": [
           {
             "type": "details",
-            "text": "It appears that you made a wrong turn."
+            "text": "Danos algunos minutos para recuperarnos y la página va a regresar mejor que nunca."
+          },
+          {
+            "type": "image",
+            "image": {
+              "src": "../res/img/redes-error-505.jpg",
+              "alt": "Nos mataste con tu amor"
+            }
           },
           {
             "type": "details small",
-            "text": "It's possible that you have typed the address incorrectly, or that the page you were looking for has been removed."
+            "text": "Por favor espera un momento..."
           },
           {
             "type": "details small",
-            "text": "Try one of this (we know they're real):"
+            "text": "Puedes tambien intentar ir a:"
           },
           {
             "type": "links",
