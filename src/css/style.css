@@ -1,0 +1,101 @@
+/* External */
+
+/*
+	EmojiSymbols Font (c)blockworks - Kenichi Kaneko
+	http://emojisymbols.com/
+*/
+@font-face {
+  font-family: "EmojiSymbols";
+  src: url("../fonts/EmojiSymbols-Regular.woff") format('woff');
+}
+
+/* Style */
+* {
+  margin:0;
+  padding:0;
+}
+
+body {
+  background-color:#F9F9F9;
+  color:#333333;
+  font-family:'Roboto Condensed', 'sans-serif';
+}
+
+body a {
+  text-decoration:none;
+  color:#A51C35;
+}
+
+body a:visited, body a:hover, body a:active {
+  text-decoration:none;
+  color:#A51C35;
+}
+
+body .emoji {
+  font-family:'EmojiSymbols';
+}
+
+body .error {
+  text-align:center;
+  font-size:1.5em;
+  margin:0 auto;
+  max-width:900px;
+  padding:10px;
+}
+
+body .error .top{
+  font-size:8em;
+  color:#A51C35;
+}
+
+body .error .code {
+  font-family:'Roboto','sans-serif';
+}
+
+body .error .msg {
+  margin-bottom:10px;
+  padding-bottom:10px;
+  border-bottom:1px solid #DDDDDD;
+}
+
+body .error .details {
+  max-width:450px;
+  margin:10px auto 0 auto;
+}
+
+body .error .details.small {
+  font-size:.8em;
+}
+
+body .error .details.small a {
+  font-weight:bolder;
+  text-decoration:underline;
+}
+
+body .error .links {
+  font-size:.8em;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+body .error .links li {
+  display:inline-block;
+}
+
+body .error .links li:not(:last-child):after{
+  content:'/';
+}
+
+body .error .links li a{
+  margin:0 4px;
+}
+
+body .error .footer{
+  margin-top:50px;
+  font-size:.5em;
+  color:#666666;
+}
+
+body .error .footer .vx-logo{
+  max-height:100px;
+}
